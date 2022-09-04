@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Qasem Mohammad</h1>
-<h3 align="center">Im from SaudiArabia</h3>
+<h3 align="center">Im from Saudi Arabia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krakensa&label=Profile%20views&color=0e75b6&style=flat" alt="krakensa" /> </p>
 
